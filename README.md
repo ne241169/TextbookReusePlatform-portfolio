@@ -43,6 +43,14 @@ https://oyuzurebbon.net/
 - HTTPS
 - Git / GitHub
 
+## 技術資料
+
+- [システム構成・処理フロー](docs/architecture.md)
+- [担当範囲と課題解決](docs/my-contributions.md)
+- [安全に加工したコード例](examples/README.md)
+
+コード例は、私が担当した実装の考え方が伝わるように再構成したものです。実運用の認証情報、大学の実ドメイン、GAS URL、ロッカー情報、個人情報は含みません。
+
 ## 開発体制
 
 プロジェクト全体は教員を含む10名で、そのうちWebサイトの開発は私を含む5名で行いました。
